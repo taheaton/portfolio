@@ -22,6 +22,9 @@ body {
 p {
   font-family: $font-fun;
 }
+a {
+  font-family: $font-fun;
+}
 h2 {
   font-family: $font-fun;
 }
@@ -46,10 +49,15 @@ h2 {
     font-size: 20pt;
 
 }
+.hub {
+  color: white;
+  font-size: 36pt;
+}
 .top-bar span {
   color: $accent-color4;
   font-size: 36pt;
 }
+
 //About Me
 .aboutMe {
     border-bottom: 1px solid $accent-color4;
@@ -138,6 +146,7 @@ h2 {
   left: 50px;
   margin-top: 50pt;
   margin-right: 100pt;
+  margin-bottom: 10pt;
 }
 .album h2 {
   font-family: $font-fun;

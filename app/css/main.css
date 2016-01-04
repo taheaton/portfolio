@@ -8473,6 +8473,9 @@ body {
 p {
   font-family: "Source Code Pro"; }
 
+a {
+  font-family: "Source Code Pro"; }
+
 h2 {
   font-family: "Source Code Pro"; }
 
@@ -8495,6 +8498,10 @@ h2 {
   font-family: "Syncopate", sans-serif;
   color: green;
   font-size: 20pt; }
+
+.hub {
+  color: white;
+  font-size: 36pt; }
 
 .top-bar span {
   color: green;
@@ -8577,7 +8584,8 @@ h2 {
   top: 100px;
   left: 50px;
   margin-top: 50pt;
-  margin-right: 100pt; }
+  margin-right: 100pt;
+  margin-bottom: 10pt; }
 
 .album h2 {
   font-family: "Source Code Pro";
